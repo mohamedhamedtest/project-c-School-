@@ -1,0 +1,42 @@
+# depslib dependency file v1.0
+1692994565 source:e:\downloads\project\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"STD.h"
+	"SDB.h"
+
+1692994843 e:\downloads\project\sdb.h
+	<stdbool.h>
+
+1692994746 source:e:\downloads\project\sdb.c
+	<stdbool.h>
+	"STD.h"
+	"SDB.h"
+
+1692994625 e:\downloads\project\std.h
+
+1692994451 source:e:\downloads\project\sdbapp.c
+	"STD.h"
+	"SDB.h"
+
+1692994565 source:d:\pictures\project\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"STD.h"
+	"SDB.h"
+
+1692994625 d:\pictures\project\std.h
+
+1692994843 d:\pictures\project\sdb.h
+	<stdbool.h>
+
+1692994843 source:d:\pictures\project\sdb.c
+	"STD.h"
+	"SDB.h"
+
+1692994451 source:d:\pictures\project\sdbapp.c
+	"STD.h"
+	"SDB.h"
+
